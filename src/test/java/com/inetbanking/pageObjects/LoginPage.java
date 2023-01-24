@@ -8,7 +8,7 @@ import org.openqa.selenium.support.PageFactory;
 
 public class LoginPage {
 	
-	
+	//slkvslkv
      @FindBy(name="uid")
       WebElement txbtn;
      @FindBy(name="password")
